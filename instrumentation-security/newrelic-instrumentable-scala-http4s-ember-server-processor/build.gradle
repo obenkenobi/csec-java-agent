@@ -15,7 +15,7 @@ dependencies {
 
 jar {
     manifest {
-        attributes 'Implementation-Title': 'com.newrelic.instrumentation.security.newrrelic-instrumentable-scala-http4s-ember-server-processor'
+        attributes 'Implementation-Title': 'com.newrelic.instrumentation.security.newrelic-instrumentable-scala-http4s-ember-server-processor'
     }
 }
 
